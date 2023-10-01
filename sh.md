@@ -2,7 +2,8 @@
 
 ## venv
 ```
-python -m venv
+python -m venv .env
+#.envは仮想環境の名前
 ```
 ```
 source .env/bin/activate
