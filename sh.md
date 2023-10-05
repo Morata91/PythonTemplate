@@ -19,3 +19,16 @@ deactivate
 #一覧
 pip freeze
 ```
+
+## conda環境
+```
+#作成
+conda create -n 環境名
+```
+
+```
+conda activate 環境名
+```
+```
+conda deactivate
+```
