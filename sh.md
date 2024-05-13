@@ -15,10 +15,23 @@ pip install -r requirements.txt
 #終了
 deactivate
 ```
+# 削除
+フォルダを削除するだけ
+
 ```
 #一覧
 pip freeze
 ```
+```
+#一覧をファイルに書き込み
+pip freeze > requirements.txt
+```
+```
+#仮想環境の削除
+
+
+```
+
 
 ## conda環境
 ```

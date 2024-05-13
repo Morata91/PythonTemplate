@@ -1,5 +1,12 @@
 # 標準構文
 
+## .pyテンプレ
+```
+def main():    
+if __name__ == '__main__':
+    main()
+```
+
 ## from import
 ```
 import モジュール名
