@@ -4,6 +4,18 @@
 ```
 git init
 ```
+
+## userセッティング
+```
+git config --local user.email "email@email.com"
+git config --local user.name "Morata91"
+```
+.git/configに以下が追加される
+```
+[user]
+	email = email@email.com
+	name = Morata91
+```
 ## add
 ```
 #特定のファイルのみ
